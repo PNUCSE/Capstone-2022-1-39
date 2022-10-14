@@ -1,0 +1,6 @@
+package com.blockking.blockking
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
