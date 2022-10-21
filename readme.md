@@ -15,13 +15,13 @@
      
   #### - 김재현  
    studentNum: 201724435  
-   git:   
-   e-mail:  
+   git: https://github.com/jaeguar1209  
+   e-mail: 201724435@pusan.ac.kr  
      
   #### - 신예주  
    studentNum: 201924500  
-   git:  
-   e-mail:   
+   git: https://github.com/Yejoo-Shin  
+   e-mail: stella03s@naver.com  
   
   
 ## POSTER
